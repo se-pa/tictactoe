@@ -1,5 +1,5 @@
 """
-Tic Tac Toe Player
+Tic Tac Toe Player made by SP
 """
 
 import math
